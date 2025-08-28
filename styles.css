@@ -1,0 +1,9 @@
+#iphone-12-pro {
+    width: 390px;
+    height: 844px;
+    border: 16px solid black;
+    border-radius: 36px;
+    position: relative;
+    background: linear-gradient(135deg, #f0f0f0, #d0d0d0);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
